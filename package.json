@@ -1,1 +1,12 @@
-{"name":"wilderness-to-metropolis-deploy","private":true,"scripts":{"build":"bash build.sh"}}
+{
+  "name": "wilderness-to-metropolis-deploy",
+  "private": true,
+  "scripts": {
+    "build": "bash build.sh"
+  },
+  "dependencies": {
+    "next": "16.0.1",
+    "react": "19.2.0",
+    "react-dom": "19.2.0"
+  }
+}
