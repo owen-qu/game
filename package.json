@@ -1,0 +1,1 @@
+{"name":"wilderness-to-metropolis-deploy","private":true,"scripts":{"build":"bash build.sh"}}
